@@ -18,5 +18,8 @@
     <ClCompile Include="prime or not.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Square.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

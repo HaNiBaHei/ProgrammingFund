@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Factor.c" />
     <ClCompile Include="prime or not.c" />
     <ClCompile Include="Square.c" />
   </ItemGroup>

@@ -1,7 +1,8 @@
 #include <stdio.h>
 main() {
-	int x, num = 0;
-	for (int x = 1; x <= 10000; x++) {			// 1-10000 //
+	int x, n, num = 0;
+	scanf_s("%d", &n);
+	for (int x = 1; x <= n; x++) {			// x-n //
 		num = 0;								// reset 0 and continous //
 		for (int fac = 1; fac < x; fac++)		// find factor of x //
 			if (x % fac == 0) {					// if fac can divide x plus it all to num //

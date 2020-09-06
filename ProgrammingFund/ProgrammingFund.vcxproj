@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="4leamkhawlamthad.c" />
     <ClCompile Include="Factor.c" />
+    <ClCompile Include="P(x)=x.c" />
     <ClCompile Include="prime or not.c" />
     <ClCompile Include="Square.c" />
     <ClCompile Include="Sumuntillcantsum.c" />

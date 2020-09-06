@@ -30,5 +30,8 @@
     <ClCompile Include="Sumuntillcantsum.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="P(x)=x.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
